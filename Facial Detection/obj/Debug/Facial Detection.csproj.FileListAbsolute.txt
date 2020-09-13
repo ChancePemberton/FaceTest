@@ -1,0 +1,47 @@
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\obj\Debug\Facial Detection.csprojAssemblyReference.cache
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\obj\Debug\Facial_Detection.FacialDetection.resources
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\obj\Debug\Facial_Detection.Properties.Resources.resources
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\obj\Debug\Facial Detection.csproj.GenerateResource.cache
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\obj\Debug\Facial Detection.csproj.CoreCompileInputs.cache
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\x64\concrt140.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\x64\cvextern.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\x64\msvcp140.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\x64\vcruntime140.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\x86\concrt140.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\x86\cvextern.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\x86\msvcp140.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\x86\vcruntime140.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\Facial Detection.exe.config
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\Facial Detection.exe
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\Facial Detection.pdb
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\AForge.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\AForge.Video.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\Emgu.CV.UI.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\Emgu.CV.World.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\ZedGraph.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\AForge.xml
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\AForge.Video.xml
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\Emgu.CV.World.xml
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\ZedGraph.xml
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\obj\Debug\Facial Detection.csproj.CopyComplete
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\obj\Debug\Facial Detection.exe
+C:\Users\chanc\source\repos\Facial Detection\Facial Detection\obj\Debug\Facial Detection.pdb
